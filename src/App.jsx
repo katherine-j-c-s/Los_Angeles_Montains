@@ -44,13 +44,13 @@ function App() {
       <Carousel images={images} />
       <div className='-mt-32 mb-10 w-full md:px-32 px-2 flex md:flex-row flex-col justify-center'>
         <div className='flex md:pt-6 pt-2'>
-          <h1 className='md:text-9xl text-3xl font-bold text-slate-500'>02</h1>
-          <div className='md:pt-16 pt-0'>
+          <h1 className='md:text-9xl text-6xl font-bold text-slate-500'>02</h1>
+          <div className='md:pt-16 pt-5'>
             <h1 className='text-2xl font-bold text-slate-700'>CLIMB</h1>
             <div className='bg-slate-500 md:h-4 md:w-4 h-1 w-1'></div>
           </div>
         </div>
-        <div className='text-md w-8/12 mt-10 md:ml-16'>
+        <div className='text-md md:w-8/12 mt-10 md:ml-16'>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, itaque! Perferendis voluptatibus maxime temporibus aliquid tempore eveniet eos sapiente quisquam assumenda adipisci modi totam explicabo, quasi harum, cumque, fugiat asperiores?
           </p>

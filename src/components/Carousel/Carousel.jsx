@@ -23,7 +23,7 @@ export default function Carousel({images}) {
         <div className='flex md:w-8/12 w-full justify-evenly mx-auto'>
             {showImg.map((img,i)=>(
                 <div className='w-fit' key={i}>
-                    <img src={img} alt="img" className='md:h-40 md:w-60 h-16' />
+                    <img src={img} alt="img" className='md:h-40 md:w-60 h-20' />
                 </div>
             ))}
         </div>
