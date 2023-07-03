@@ -65,15 +65,15 @@ function App() {
         </div>
       </div>
       <Part2 />
-      <footer className='w-full flex justify-between h-16 pt-2 md:px-32 bg-slate-700'>
+      <footer className='w-full flex md:flex-row flex-col justify-between md:h-16 h-24 pt-2 md:px-32 bg-slate-700'>
         <div className='flex'>
-          <img src={logo} className='mt-2 mr-2 h-8 w-8' alt="img" />
-          <div>
+          <img src={logo} className='mt-2 md:ml-0 ml-4 mr-2 h-8 w-8' alt="img" />
+          <div className='flex md:flex-col md:mt-0 mt-3 flex-row'>
             <h1 className='md:font-bold  text-md text-slate-600'>LOSANGELES</h1>
-            <h1 className='md:font-bold  text-md text-slate-600'>MONTAINS</h1>
+            <h1 className='md:font-bold md:ml-0 ml-1 text-md text-slate-600'>MONTAINS</h1>
           </div>
         </div>
-        <div className='text-slate-600 md:font-bold text-md mt-3'>
+        <div className='text-slate-600 md:font-bold md:ml-0 ml-4 text-md md:mt-3'>
           <p>COPY RIGHT 2016. RIGHTS RESERVED</p>
         </div>
       </footer>
