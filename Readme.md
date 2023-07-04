@@ -33,17 +33,18 @@ However, my main focus in these projects was on the frontend. I worked on creati
 <br><br>
 client view:
 <br><br>
--Landing page: This page showcased featured products and provided a description of the website.
+- **Landing page**: This page showcased featured products and provided a description of the website.
 <br>
--Log in and log out functionality: Users were able to log in using their Google accounts, and their information was saved in the database.
+- **Log in and log out functionality**: Users were able to log in using their Google accounts, and their information was saved in the database.
 <br>
--Client Profile: Users had the ability to edit their account information and delete their account if desired.
+- **Client Profile**: Users had the ability to edit their account information and delete their account if desired.
 <br><br>
 In the admin view, I created the following pages:
 <br><br>
--Products page: This page displayed all the products that the admin had created. The admin could create new products, edit existing ones, delete any product, and select products to feature on the landing page.
+- **Products page**: This page displayed all the products that the admin had created. The admin could create new products, edit existing ones, delete any product, and select products to feature on the landing page.
 <br>
--Users page: This page showed all the subscribed users and their activity on the platform, such as purchase history, frequency of platform visits, and any comments they made about the products they purchased.
+- **Users page**: This page showed all the subscribed users and their activity on the platform, such as purchase history, frequency of platform visits, and any comments they made about the products they purchased.
 <br>
--Dashboard page: This page provided information on the number of products sold, statistics on the best-selling products, the total number of users, and the frequency of user visits to the website.
+- **Dashboard page**: This page provided information on the number of products sold, statistics on the best-selling products, the total number of users, and the frequency of user visits to the website.
 <br><br>
+<h3 align="center">What is the minimum acceptable ANNUAL / YEARLY salary in US dollars for you to join our team?</h3>
