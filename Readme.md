@@ -28,16 +28,22 @@ Before I learned programming, I used to create website designs in Figma and sell
 <h3 align="center">What experience do you have with development? Could you please list the tech stacks you have the most experience in, from coding languages to content management systems to SysAdmin technologies?</h3>
 <br>
 I have created a video game page and other projects with React. Some examples include a page about the TV shows "Rick and Morty" and "Game of Thrones," as well as an e-commerce website for sportswear. In the e-commerce project, I managed and led the team through the entire project, overseeing both the frontend and backend development.
+<br><br>
+However, my main focus in these projects was on the frontend. I worked on creating the design and ensuring it was responsive for a higher user experience. Creating the following pages in the 
 <br>
-However, my main focus in these projects was on the frontend. I worked on creating the design and ensuring it was responsive for a higher user experience. Creating the following pages in the client view:
-<br>
+client view:
+<br><br>
 -Landing page: This page showcased featured products and provided a description of the website.
+<br>
 -Log in and log out functionality: Users were able to log in using their Google accounts, and their information was saved in the database.
+<br>
 -Client Profile: Users had the ability to edit their account information and delete their account if desired.
 <br><br>
 In the admin view, I created the following pages:
 <br>
 -Products page: This page displayed all the products that the admin had created. The admin could create new products, edit existing ones, delete any product, and select products to feature on the landing page.
+<br>
 -Users page: This page showed all the subscribed users and their activity on the platform, such as purchase history, frequency of platform visits, and any comments they made about the products they purchased.
+<br>
 -Dashboard page: This page provided information on the number of products sold, statistics on the best-selling products, the total number of users, and the frequency of user visits to the website.
 <br><br>
