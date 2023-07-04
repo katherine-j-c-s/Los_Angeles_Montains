@@ -30,7 +30,7 @@ Before I learned programming, I used to create website designs in Figma and sell
 I have created a video game page and other projects with React. Some examples include a page about the TV shows "Rick and Morty" and "Game of Thrones," as well as an e-commerce website for sportswear. In the e-commerce project, I managed and led the team through the entire project, overseeing both the frontend and backend development.
 <br><br>
 However, my main focus in these projects was on the frontend. I worked on creating the design and ensuring it was responsive for a higher user experience. Creating the following pages in the 
-<br>
+<br><br>
 client view:
 <br><br>
 -Landing page: This page showcased featured products and provided a description of the website.
