@@ -75,4 +75,4 @@ This page provided information on the number of products sold, statistics on the
 
 
 <h3 align="center">What is the minimum acceptable ANNUAL / YEARLY salary in US dollars for you to join our team? </h3>
-**15000** 
+15000
