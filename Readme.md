@@ -74,10 +74,10 @@ This page provided information on the number of products sold, statistics on the
 <br><br>
 
 
-<h3 align="center">What is the minimum acceptable ANNUAL / YEARLY salary in US dollars for you to join our team? ""15000""</h3>
-<h3 align="center">If hired, how soon you would be available to start? ""Inmediately""</h3>
-<h3 align="center">What type of work location are you seeking? ""Only Remotely""</h3>
-<h3 align="center">Select your country from the list ""Argentine""</h3>
-<h3 align="center">What is your full address? (street address, city, state / territory, country) ""Neuquen""</h3>
-<h3 align="center">Are you willing to work our standard hours in our timezone? PST ""Yes""</h3>
-<h3 align="center">OPTIONAL: Did this skills test accurately reflect the skills needed to succeed in this area? ""Great""</h3>
+<h3 align="start">What is the minimum acceptable ANNUAL / YEARLY salary in US dollars for you to join our team? ""15000""</h3>
+<h3 align="start">If hired, how soon you would be available to start? ""Inmediately""</h3>
+<h3 align="start">What type of work location are you seeking? ""Only Remotely""</h3>
+<h3 align="start">Select your country from the list ""Argentine""</h3>
+<h3 align="start">What is your full address? (street address, city, state / territory, country) ""Neuquen""</h3>
+<h3 align="start">Are you willing to work our standard hours in our timezone? PST ""Yes""</h3>
+<h3 align="start">OPTIONAL: Did this skills test accurately reflect the skills needed to succeed in this area? ""Great""</h3>
