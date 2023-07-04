@@ -50,7 +50,7 @@ This page displayed all the products that the admin had created. The admin could
 - Users page
 This page showed all the subscribed users and their activity on the platform, such as purchase history, frequency of platform visits, and any comments they made about the products they purchased.
 <br>
-- **Dashboard page**
+- Dashboard page
 This page provided information on the number of products sold, statistics on the best-selling products, the total number of users, and the frequency of user visits to the website.
 <br><br>
 <h3 align="center">What is the minimum acceptable ANNUAL / YEARLY salary in US dollars for you to join our team?</h3>
