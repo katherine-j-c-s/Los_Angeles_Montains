@@ -49,7 +49,7 @@ However, my main focus in these projects was on the frontend. I worked on creati
 
 client view:
 
-<br><br>
+<br>
 - Landing page
 This page showcased featured products and provided a description of the website.
 <br>
@@ -62,7 +62,7 @@ Users had the ability to edit their account information and delete their account
 
 In the admin view, I created the following pages:
 
-<br><br>
+<br>
 - Products page
 This page displayed all the products that the admin had created. The admin could create new products, edit existing ones, delete any product, and select products to feature on the landing page.
 <br>
