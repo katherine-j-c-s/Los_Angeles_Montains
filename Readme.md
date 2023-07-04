@@ -31,6 +31,7 @@ I have created a video game page and other projects with React. Some examples in
 <br><br>
 However, my main focus in these projects was on the frontend. I worked on creating the design and ensuring it was responsive for a higher user experience. Creating the following pages in the 
 <br><br>
+<div align="left">
 client view:
 <br><br>
 - Landing page
@@ -53,4 +54,5 @@ This page showed all the subscribed users and their activity on the platform, su
 - Dashboard page
 This page provided information on the number of products sold, statistics on the best-selling products, the total number of users, and the frequency of user visits to the website.
 <br><br>
+</div>
 <h3 align="center">What is the minimum acceptable ANNUAL / YEARLY salary in US dollars for you to join our team?</h3>
