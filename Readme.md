@@ -40,7 +40,7 @@ client view:
 -Client Profile: Users had the ability to edit their account information and delete their account if desired.
 <br><br>
 In the admin view, I created the following pages:
-<br>
+<br><br>
 -Products page: This page displayed all the products that the admin had created. The admin could create new products, edit existing ones, delete any product, and select products to feature on the landing page.
 <br>
 -Users page: This page showed all the subscribed users and their activity on the platform, such as purchase history, frequency of platform visits, and any comments they made about the products they purchased.
